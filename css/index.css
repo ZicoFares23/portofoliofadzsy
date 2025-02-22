@@ -2,7 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background: url('../image/Teknologi.jpg') no-repeat center center fixed;
+    background-color: #222;
     background-size: cover;
     color: black;
 }
@@ -354,7 +354,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 15px 20px;
-    background-color: #222;
+    background-color: #5773ff;
     position: fixed;
     width: 100%;
     top: 0;
@@ -384,7 +384,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 15px 20px;
-    background-color: #222;
+    background-color: #1900ff;
     position: fixed;
     width: 100%;
     top: 0;
@@ -438,7 +438,7 @@ nav {
       position: absolute;
       top: 60px;
       right: 0;
-      background-color: #333;
+      background-color: #1900ff;
       flex-direction: column;
       width: 200px;
       height: auto;
